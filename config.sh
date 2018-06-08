@@ -28,13 +28,13 @@
 AUTOMOUNT=true
 
 # Set to true if you need to load system.prop
-PROPFILE=true
+PROPFILE=false
 
 # Set to true if you need post-fs-data script
-POSTFSDATA=true
+POSTFSDATA=false
 
 # Set to true if you need late_start service script
-LATESTARTSERVICE=true
+LATESTARTSERVICE=false
 
 # Unity Variables
 # Uncomment and change 'MINAPI' and 'MAXAPI' to the minimum and maxium android version for your mod (note that magisk has it's own minimum api: 21 (lollipop))
@@ -57,9 +57,9 @@ unity_custom() {
 print_modname() {
   ui_print " "
   ui_print "    *****************************************"
-  ui_print "    *            Pixel Experience           *"
+  ui_print "    *        Android P Fonts & Emojis       *"
   ui_print "    *****************************************"
-  ui_print "    *                  v5.0                 *"
+  ui_print "    *                    v1                 *"
   ui_print "    *                Joey Huab              *"
   ui_print "    *******************************************"
   ui_print " "
@@ -85,7 +85,6 @@ REPLACE="
 # Construct your own list here, it will overwrite the example
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
-/system/priv-app/Launcher3
 "
 
 ##########################################################################################
