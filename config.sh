@@ -10,10 +10,9 @@
 # 
 # 1. Place your files into system folder (delete the placeholder file)
 # 2. Fill in your module's info into module.prop
-# 3. Configure the settings in this file (common/config.sh)
-# 4. For advanced features, add shell commands into the script files under common:
-#    post-fs-data.sh, service.sh
-# 5. For changing props, add your additional/modified props into common/system.prop
+# 3. Configure the settings in this file (config.sh)
+# 4. If you need boot scripts, add them into common/post-fs-data.sh or common/service.sh
+# 5. Add your additional or modified system properties into common/system.prop
 # 
 ##########################################################################################
 
@@ -38,10 +37,14 @@ LATESTARTSERVICE=false
 
 # Unity Variables
 # Uncomment and change 'MINAPI' and 'MAXAPI' to the minimum and maxium android version for your mod (note that magisk has it's own minimum api: 21 (lollipop))
-# Uncomment DYNAMICOREO if you want apps and libs installed to vendor for oreo and newer and system for anything older
+# Uncomment DYNAMICOREO if you want libs installed to vendor for oreo and newer and system for anything older
+# Uncomment DYNAMICAPP if you want anything in $INSTALLER/system/app to be installed to the optimal app directory (/system/priv-app if it exists, /system/app otherwise)
+# Uncomment SYSOVERRIDE if you want the mod to always be installed to system (even on magisk)
 #MINAPI=21
 #MAXAPI=25
+#SYSOVERRIDE=true
 #DYNAMICOREO=true
+#DYNAMICAPP=true
 
 # Custom Variables - Keep everything within this function
 unity_custom() {
@@ -56,11 +59,11 @@ unity_custom() {
 
 print_modname() {
   ui_print " "
-  ui_print "    *****************************************"
-  ui_print "    *        Android P Fonts & Emojis       *"
-  ui_print "    *****************************************"
-  ui_print "    *                    v1                 *"
-  ui_print "    *                Joey Huab              *"
+  ui_print "    *******************************************"
+  ui_print "    *<name>*"
+  ui_print "    *******************************************"
+  ui_print "    *<version>*"
+  ui_print "    *<author>*"
   ui_print "    *******************************************"
   ui_print " "
 }

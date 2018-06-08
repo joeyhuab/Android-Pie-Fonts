@@ -1,30 +1,53 @@
-# Android P Fonts & Emojis
-I made a compilation of the new Google Sans fonts from the new Android P Developer Preview 3 and came up with this module which can be flashed with other devices on Nougat and above.
-
-## Information
-I've decided to make this module to allow other devices to use the latest fonts and emojis from the newest Developer Preview instead of waiting for updates.
-
-## Features
-- Updated Google Sans fonts
-- Include latest Emojis
-
-## Latest changelog
-v1
-- Initial build
+# Unity (Un)Installer Template
+Unity Installer allows 1 zip to work for multiple devices and root solutions. [More details in support thread](https://forum.xda-developers.com/apps/magisk/module-audio-modification-library-t3579612).
 
 ## Compatibility
-- Xiaomi Mi A1
+* Android Jellybean+
+* Selinux enforcing
+* All root solutions (requires init.d support if not using magisk or supersu. Try [Init.d Injector](https://forum.xda-developers.com/android/software-hacking/mod-universal-init-d-injector-wip-t3692105))
 
-Provide feedback via the XDA thread by inputting your phone model, current ROM. Feel free to report if it works on other devices as well. It should work on other devices as long as they are close to stock (Stock/Custom ROMs).
+## Change Log
+### v1.5.4 - 5.7.2018
+* Added support for init.d injector late_start and post-fs-data method
 
-## Thanks
-Thanks to these people!
-- @Shooting Star Max for the files
-- @topjohnwu for Magisk
+### v1.5.3 - 4.26.2018
+* Fixed/overhauled SYSOVERRIDE
+* Fixes/improvements with system installs
 
-LICENSE
-Copyright © 2018 joeyhuab. Licensed under the GNU General Public License v3.
+### v1.5.2 - 4.16.2018
+* Removed ALWAYSRW
 
-## [Pixel Experience module XDA Portal feature](https://www.xda-developers.com/pixel-2-experience-magisk-module/)
-## [Pixel Experience module XDA thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
-## [Github source](https://github.com/joeyhuab/Android-P-Fonts-Emojis/)
+### v1.5.1 - 4.12.2018
+* Fixes for file copying
+
+### v1.5 - 4.12.2018
+* Add DYNAMICAPP option
+* Add SYSOVERRIDE option
+* Add ALWAYSRW option
+* Rework some of the copy logic
+
+### v1.4.1 - 3.29.2018
+* Don't use dynamic oreo for system kernel modules
+* Fix prop file permissions for system installs
+
+### v1.4 - 3.18.2018
+* Remove redundant code
+* Don't use install binary anymore since it's weird on some devices
+* Install apps to priv-app if /vendor/app folder doesn't exist
+* Misc improvements
+
+### v1.3 - 2.25.2018
+* Fix seg faults on system installs
+
+### v1.2 - 2.16.2018
+* Fine tune prop logic
+* Update util_functions with magisk 15.4 stuff
+
+### v1.1 - 2.7.2018
+* Bootmode fixes
+
+### v1.0 - 2.5.2018
+* Initial release
+
+## Source Code
+* Module [GitHub](https://github.com/Zackptg5/Unity)
