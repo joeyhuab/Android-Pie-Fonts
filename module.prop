@@ -1,9 +1,9 @@
-id=PXM
-name=Pixel Experience
-version=v5.0
-versionCode=35
-author=Joey Huab, R Primus, tohtorin, Zackptg5
-description=Ports Pixel exclusive features; includes 3 different Pixel Launchers mods (w/ one Android Go version), Pixel theme accent, Pixel audio files; enables Google Sans font in Assistant, System update window and Setup Wizard app, Google Lens on Photos app, Camera2 API and EIS support (varies per device)
-support=https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/
-donate=https://github.com/Magisk-Modules-Repo/Pixel-Experience-Magisk
+id=PFontsEmojis
+name=Android P Fonts & Emojis
+version=v1
+versionCode=1
+author=Joey Huab
+description=Ports new fonts and Emojis from Android P Dev Preview 3
+support=
+donate=https://github.com/joeyhuab/Android-P-Fonts-Emojis
 minMagisk=1500
