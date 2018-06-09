@@ -10,11 +10,13 @@ I've decided to make this module to allow other devices to use the latest fonts 
 
 ## Compatibility
 - Xiaomi Mi A1
+- OnePlus 5T
+- Samsung Galaxy S8 - DevBase
 
 Provide feedback via the XDA thread by inputting your phone model, current ROM. Feel free to report if it works on other devices as well. It should work on other devices as long as they are close to stock (Stock/Custom ROMs).
 
 ## Changelog
-### v1.0 - 2.5.2018
+### v1.0 - 6.9.2018
 * Initial release
 
 ## Source Code
@@ -30,4 +32,5 @@ Copyright © 2018 joeyhuab. Licensed under the GNU General Public License v3.
 
 ## [Pixel Experience module XDA Portal feature](https://www.xda-developers.com/pixel-2-experience-magisk-module/)
 ## [Pixel Experience module XDA thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
+## [Android P Emojis & Fonts XDA Portal feature](https://www.xda-developers.com/android-p-emoji-fonts-magisk-module/)
 ## [Github source](https://github.com/joeyhuab/Android-P-Fonts-Emojis/)
