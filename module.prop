@@ -4,6 +4,6 @@ version=v1
 versionCode=1
 author=Joey Huab, Hikikoboshi
 description=The new Android P DP3 fonts and emoji, systemlessly. Ports new fonts and Emojis from Android P Developer Preview 3.
-support=
+support=https://forum.xda-developers.com/mi-a1/themes/magisk-android-p-fonts-emojis-t3801510
 donate=https://github.com/joeyhuab/Android-P-Fonts-Emojis
 minMagisk=1500
