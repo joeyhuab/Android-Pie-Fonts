@@ -9,6 +9,8 @@ I've decided to make this module to allow other devices to use the latest fonts 
 * Include latest Emojis
 
 ## Changelog
+### v3 - 7.29.2018
+Updates from Android P DP5
 ### v2 - 7.3.2018 
 Updates from Android P DP4
 - DroidSans-Bold.ttf
