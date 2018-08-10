@@ -1,4 +1,4 @@
-# Android P Fonts & Emojis
+# Android Pie Fonts & Emojis
 I made a compilation of the new Google Sans fonts from the new Android Pie and came up with this module which can be flashed with other devices on Nougat and above.
 
 ## Information
