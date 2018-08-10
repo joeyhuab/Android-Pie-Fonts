@@ -60,9 +60,9 @@ unity_custom() {
 print_modname() {
   ui_print " "
   ui_print "    *****************************************"
-  ui_print "    *     Android P 9.0 Fonts & Emojis      *"
+  ui_print "    *       Android Pie Fonts & Emojis      *"
   ui_print "    *****************************************"
-  ui_print "    *                   v3                  *"
+  ui_print "    *                   v4                  *"
   ui_print "    *         Joey Huab & Hikikoboshi       *"
   ui_print "    *******************************************"
   ui_print " "
