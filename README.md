@@ -1,14 +1,16 @@
 # Android P Fonts & Emojis
-I made a compilation of the new Google Sans fonts from the new Android P Developer Preview 3 and came up with this module which can be flashed with other devices on Nougat and above.
+I made a compilation of the new Google Sans fonts from the new Android Pie and came up with this module which can be flashed with other devices on Nougat and above.
 
 ## Information
-I've decided to make this module to allow other devices to use the latest fonts and emojis from the newest Developer Preview instead of waiting for updates.
+I've decided to make this module to allow other devices to use the latest fonts and emojis from the latest Android OS instead of waiting for updates.
 
 ## Features
 * Updated Google Sans fonts
 * Include latest Emojis
 
 ## Changelog
+### v4 - 8.10.2018
+Updates from Android Pie release
 ### v3 - 7.29.2018
 Updates from Android P DP5
 ### v2 - 7.3.2018 
@@ -16,7 +18,7 @@ Updates from Android P DP4
 - DroidSans-Bold.ttf
 - DroidSans.ttf
 - NotoColorEmoji.ttf
-### v1.0 - 6.9.2018
+### v1 - 6.9.2018
 * Initial release
 
 ## Compatibility
