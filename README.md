@@ -42,14 +42,7 @@ I've decided to make this module to allow other devices to use the latest fonts 
 * @Shooting Star Max for the initial font files
 * @topjohnwu for Magisk
 
-LICENSE
-Copyright © 2018 joeyhuab. Licensed under the GNU General Public License v3.
-
-## Source Code
-* Module [GitHub](https://github.com/joeyhuab/Android-P-Fonts-Emojis)
-
-## [Pixel Experience module XDA Portal feature](https://www.xda-developers.com/pixel-2-experience-magisk-module/)
-## [Pixel Experience module XDA thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
-## [Android P Emojis & Fonts XDA Portal feature](https://www.xda-developers.com/android-p-emoji-fonts-magisk-module/)
-## [Android P Emojis & Fonts XDA thread](https://forum.xda-developers.com/mi-a1/themes/magisk-android-p-fonts-emojis-t3801510#post76761552)
-## [Github source](https://github.com/joeyhuab/Android-P-Fonts-Emojis/)
+## ⭐ Links
+* [![LICENSE](https://img.shields.io/github/license/Magisk-Modules-Repo/APFE.svg)](https://github.com/Magisk-Modules-Repo/APFE/blob/master/LICENSE)
+* [![PIX3LIFY XDA Portal feature](https://img.shields.io/badge/XDA-Portal-orange.svg)](https://www.xda-developers.com/android-p-emoji-fonts-magisk-module)
+* [![Source Code](https://img.shields.io/badge/Github-Source-black.svg)](https://github.com/Magisk-Modules-Repo/APFE)
