@@ -34,9 +34,7 @@ I've decided to make this module to allow other devices to use the latest fonts 
 * Initial release
 
 ## ⭐ Compatibility
-* Xiaomi Mi A1
-* OnePlus 5T
-* Samsung Galaxy S8
+* Should work fine on all devices
 
 ## ⭐ Credits
 * @Shooting Star Max for the initial font files
