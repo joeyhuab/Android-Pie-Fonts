@@ -18,6 +18,10 @@ I've decided to make this module to allow other devices to use the latest fonts 
 * Include latest Emojis
 
 ## ⭐ Changelog
+### v6 - 11.11.2018
+* Take fonts from crosshatch-pd1a.180720.030
+
+
 ### v4 - 8.10.2018
 * Updates from Android Pie release
 
