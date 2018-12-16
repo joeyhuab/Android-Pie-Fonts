@@ -1,9 +1,9 @@
 id=APFE
 name=Android Pie Fonts
-version=v5
-versionCode=5
+version=v6
+versionCode=6
 author=Joey Huab
-description=The default fonts from Android Pie PR2. Most recent fonts taken from Pixel 3 XL's factory image.
+description=The default fonts from Android Pie. Most recent fonts taken from Pixel 3 XL's factory image.
 support=https://forum.xda-developers.com/mi-a1/themes/magisk-android-p-fonts-emojis-t3801510
 donate=https://www.paypal.me/joeyhuab
 minMagisk=17000

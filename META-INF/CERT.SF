@@ -1,0 +1,434 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: qyqUZN6ejPOgy9aL2AywWmPYZNM=
+Created-By: 1.0 (Android SignApk)
+
+Name: system/etc/crown_156_128.bin
+SHA1-Digest-Manifest: b2G+KW8huyFDTjHjeW9C28t9XF8=
+
+Name: system/etc/sysconfig/pixel_experience_2018.xml
+SHA1-Digest-Manifest: EfdDlneOEEoH48R8fWT/xDzjUlE=
+
+Name: system/vendor/etc/permissions/android.hardware.vr.headtracking.x
+ ml
+SHA1-Digest-Manifest: i4F3EV78sPXr6Wpq/DNifMXwlZU=
+
+Name: .gitattributes
+SHA1-Digest-Manifest: VJvL32Kgn3r0mLHw8YEc77HAwV0=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libtrueportrait.so
+SHA1-Digest-Manifest: +ryRglEAgIdvrcbhsrzTCjOALmg=
+
+Name: system/vendor/etc/permissions/android.hardware.camera.front.xml
+SHA1-Digest-Manifest: MMuB4HgRJ4dfzJMPQ1Fpb+Q2eY8=
+
+Name: system/etc/sysconfig/nexus.xml
+SHA1-Digest-Manifest: BDX2G5EvWPNZ8c1Aw7T09tj0ExE=
+
+Name: system/etc/camera/ov13880_arc_ofilm_chromatix.xml
+SHA1-Digest-Manifest: yTq0/ZUogAWU5NBra9NpTrPJ0Vs=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libseestraight.so
+SHA1-Digest-Manifest: QEzGHWZ1DSfxAONMUPnzmdp6QjY=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libscvePanorama_lite.so
+SHA1-Digest-Manifest: Ohu8UjdVUX9AiRBauE2Ic3RoPQ0=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libmorpho_panorama_gp.so
+SHA1-Digest-Manifest: KqV54BaoDYhrRqeBOvbqtdWPUU4=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libscveCommon.so
+SHA1-Digest-Manifest: wXKCB94NWFH+FyNkr/4r70Mgjns=
+
+Name: system/etc/camera/ov5675_qtech_chromatix.xml
+SHA1-Digest-Manifest: hBAgr3UDUykCgesY4YSsHaQeB6Y=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libmorpho_memory_allocator.
+ so
+SHA1-Digest-Manifest: s5FNAyYFQrEjr6GUXGSNZwGqtIM=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libclearsight.so
+SHA1-Digest-Manifest: sH7pu++IyNVoeiGgSiK/JM7MrrQ=
+
+Name: system/etc/camera/imx258_mono_bear_chromatix.xml
+SHA1-Digest-Manifest: 2T96/gWvSmJv9EKUBMRElf/OCLo=
+
+Name: system/etc/camera/ov13850_q13v06k_chromatix.xml
+SHA1-Digest-Manifest: kf3LQbtZLfDMqUZMzAzW/moLmXk=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libscveObjectTracker_stub.s
+ o
+SHA1-Digest-Manifest: Uw4jukVhydvULtxo7pEpkC3UDHE=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libjni_seestraight.so
+SHA1-Digest-Manifest: 7KdGE4kogBRF/vHFGYhjRGLDjqg=
+
+Name: system/etc/camera/ov12a10_chromatix.xml
+SHA1-Digest-Manifest: /ZLBW2Ow2AwQPPjuDxxWJuKxDNs=
+
+Name: system/etc/camera/imx362_chromatix.xml
+SHA1-Digest-Manifest: 9eWb8rQhYyvDji2QIznYxlMpnC4=
+
+Name: system/etc/camera/s5k2l7_chromatix.xml
+SHA1-Digest-Manifest: IoGCJz62Ao1a6I7SqaPe+JWe3Uc=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libmorpho_groupshot.so
+SHA1-Digest-Manifest: o5CwntkdqjXYoA5oZkefCFeq0sc=
+
+Name: system/etc/face_goodly_208_180
+SHA1-Digest-Manifest: RCYaI05MeMQPB7KIrjDjv+kgSwI=
+
+Name: system/vendor/etc/permissions/android.hardware.camera.raw.xml
+SHA1-Digest-Manifest: OPvpFLS+C0NRKilF8KHZ3b/C7oI=
+
+Name: system/vendor/etc/permissions/android.software.vr.mode.xml
+SHA1-Digest-Manifest: HuoXWUpPR+y+ONtbgGBWUtD4kSA=
+
+Name: CONTRIBUTING.md
+SHA1-Digest-Manifest: ygelzUKo/yDCF4H6+h0yyVDU0hY=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libjni_sharpshooter.so
+SHA1-Digest-Manifest: NB5XrYKqh4zuh75yQ5A7y9H8AtM=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libhdr_tm.so
+SHA1-Digest-Manifest: PUH3XdRa4a4MoiuD/LoRTbFjoec=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libubifocus.so
+SHA1-Digest-Manifest: ZnOZ+L8N6JFMYkQMSKtAXcT1WmU=
+
+Name: system/etc/sysconfig/miuicamera-hiddenapi-package-whitelist.xml
+SHA1-Digest-Manifest: h2ReM4rKMyB7rRqkQJujhfN5WDQ=
+
+Name: system/priv-app/MiuiCamera/MiuiCamera.apk
+SHA1-Digest-Manifest: 5vR8bh22AJd2R9HTnHC07AWjkyk=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libvideoutils.so
+SHA1-Digest-Manifest: QzB6JdflrY8T0piyzOyQ6QoSLPA=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libmmcamera_tintless_algo.s
+ o
+SHA1-Digest-Manifest: n6dGP4Gh00oXYb3hXvPMoyEizXw=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libjni_clearsight.so
+SHA1-Digest-Manifest: ZiOhOaodXD18CyHqP6DAUbg1Yuo=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libscveCommon_stub.so
+SHA1-Digest-Manifest: mBEcrBNvZfDlJezH3MTOXMSqITA=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libjni_trueportrait.so
+SHA1-Digest-Manifest: 3eyE4u6NbdvKZ5doJ7TI8R3KJao=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libscveBlobDescriptor_stub.
+ so
+SHA1-Digest-Manifest: Pzm/dby+0W88ChywAFgu+GsE9Nk=
+
+Name: system/etc/camera/imx362_chromatix_bear.xml
+SHA1-Digest-Manifest: Ubf2jA03/npIx3mHH7ERM03lbc4=
+
+Name: system/etc/camera/s5k3m2xm_chromatix_bear.xml
+SHA1-Digest-Manifest: /YxicDuKqe+MIYVaVQFNU6B0t1M=
+
+Name: system/etc/permissions/handheld_core_hardware.xml
+SHA1-Digest-Manifest: NIC5B4BhPQ4L1coHsJ0aFMcDxeI=
+
+Name: system/etc/camera/s5k3m2xm_chromatix.xml
+SHA1-Digest-Manifest: owDHOa6pgcBD04iLa+u3i1r2Xkc=
+
+Name: system/etc/face_ravishing_238_224
+SHA1-Digest-Manifest: K7/8C6qS4a/clK8cYNhXVc5DafI=
+
+Name: system/etc/camera/imx318_chromatix.xml
+SHA1-Digest-Manifest: DCvgG3L0fgwpsvT+PaEPBYiDrpM=
+
+Name: system/etc/camera/ov12a10_arc_chromatix.xml
+SHA1-Digest-Manifest: 1pAiYV3rYct+nOlaoTvn3P4CFs0=
+
+Name: system/etc/camera/s5k5e8_ofilm_chromatix.xml
+SHA1-Digest-Manifest: UgbJEBEuF/1262dfPZ8yUJFnNFY=
+
+Name: system/etc/camera/imx230_qc2002_chromatix.xml
+SHA1-Digest-Manifest: jxtZT+9pL2GbPqPg4PDO3qg2nrE=
+
+Name: system/etc/camera/ov13850_chromatix.xml
+SHA1-Digest-Manifest: L9OPZreHHhwNdPIWvL94L50d3vs=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libts_detected_face_hal.so
+SHA1-Digest-Manifest: yAm2nzhXDbOZQWMwyMuRyaX6/pk=
+
+Name: system/vendor/etc/permissions/android.hardware.camera.full.xml
+SHA1-Digest-Manifest: G2bFWQtYmACvh55sVHjqmsJlz/M=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libts_face_beautify_hal.so
+SHA1-Digest-Manifest: 86LUjxqKTdAHPLCahcoZ/rpe4NM=
+
+Name: system/etc/sysconfig/google_build.xml
+SHA1-Digest-Manifest: m2XSYQpcgNhsIknK6LnriH2djqg=
+
+Name: system/etc/camera/ov5670_f5670bq_chromatix.xml
+SHA1-Digest-Manifest: L2CaYkauReQNfRqY78RVh1EaHvw=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libfiltergenerator.so
+SHA1-Digest-Manifest: LjaSycynqdNt4ErtingH7snOOHA=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libmmcamera_dbg.so
+SHA1-Digest-Manifest: m77VA+/wihf2BhdmNNEUu850yLo=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libdualcameraddm.so
+SHA1-Digest-Manifest: K+nsre3rNxjqvvE4oGG0sgHWbiM=
+
+Name: system/etc/camera/s5k2l7_8953_chromatix.xml
+SHA1-Digest-Manifest: QJuKIWMLnAqsQ17T5BaPA/fSE4E=
+
+Name: system/etc/camera/ov8865_chromatix.xml
+SHA1-Digest-Manifest: FelYUBPzdkzQlrgrkEt6V/kKYOY=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libjni_filtergenerator.so
+SHA1-Digest-Manifest: 1wrPS/HsD9iUdmh5IiCkhKTCc2M=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libfilterpack_imageproc.so
+SHA1-Digest-Manifest: QrhDFtt3C7yKQYibkfUROw4sCMY=
+
+Name: system/etc/camera/s5k3m2xx_chromatix.xml
+SHA1-Digest-Manifest: QDwtZJK4VE3D5+zPT5E0VeWnV3I=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libts_face_beautify_jni.so
+SHA1-Digest-Manifest: jlzgJ2HJeRdXTh8ze9uk+QUSAVw=
+
+Name: system/etc/face_splendid_274_200
+SHA1-Digest-Manifest: pybZP8LLalZlFfquPcFMym1ohNE=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libtruescanner.so
+SHA1-Digest-Manifest: ZQ89RBpwc+gFSukGsttOindSx0o=
+
+Name: system/etc/camera/imx258_bear_chromatix.xml
+SHA1-Digest-Manifest: 41sJmxnePZQwLVAPucTGNbf8Zec=
+
+Name: system/etc/camera/ov4688_chromatix.xml
+SHA1-Digest-Manifest: rFcnp816I+dnp0/PrL1PLLIW9KY=
+
+Name: system/etc/camera/s5k3p8sp_chromatix.xml
+SHA1-Digest-Manifest: bUcFN3Qs8f+8hoYY9fo0bPp9ZVo=
+
+Name: system/etc/people_gender.dat
+SHA1-Digest-Manifest: BYPAlMvmNkkGwXYEn+OtBMg0eCI=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libscvePanorama.so
+SHA1-Digest-Manifest: w/tmdSiT28Ol8TJ32d3qs+If4K8=
+
+Name: system/etc/camera/imx298_chromatix.xml
+SHA1-Digest-Manifest: fyuLhySf4zy9FkwFA9gA/cqe4eE=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libjni_truescanner_v2.so
+SHA1-Digest-Manifest: CQ2QRP7WjQhzZuirGLlqAPWCejA=
+
+Name: system/etc/morpho_lowlight4.0.xml
+SHA1-Digest-Manifest: sO2DE+DTkQ2GPhgB3ICITCWYwz4=
+
+Name: system/etc/camera/imx214_chromatix.xml
+SHA1-Digest-Manifest: Eir3g+tbXJO5unJCefDI05tS9wM=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libscveObjectSegmentation.s
+ o
+SHA1-Digest-Manifest: Th6BK4Dv7vs/TCA2pZLzQ/eOlZg=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libseemore.so
+SHA1-Digest-Manifest: t+x381uTibgCWYfOSK8HBbm83P0=
+
+Name: system/etc/dualcamera.png
+SHA1-Digest-Manifest: gzF2ylqj1ublcgPceCg6//o66d8=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libfilterpack_facedetect.so
+SHA1-Digest-Manifest: aB4JE3+WnKMb5EdSf3jOvhrEWmI=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: system/etc/device_features/tissot_sprout.xml
+SHA1-Digest-Manifest: IxZ7NFeWVFrorQncZlunmFtY2J4=
+
+Name: ISSUE_TEMPLATE.md
+SHA1-Digest-Manifest: +M0YVG4uY/lrbw9KpGYQh+KWwyk=
+
+Name: system/etc/camera/imx230_qc2002_with_gyro_chromatix.xml
+SHA1-Digest-Manifest: PT05LLAVANUMffBXnuJUNYCF5Sg=
+
+Name: config.sh
+SHA1-Digest-Manifest: FDcx1GcTgyNFZijHIvcmRnoq+DE=
+
+Name: system/etc/sysconfig/google_vr_build.xml
+SHA1-Digest-Manifest: CGmhZhf/bORnB5zN56je4jan8rY=
+
+Name: system/etc/sysconfig/pixel_experience_2017.xml
+SHA1-Digest-Manifest: DmgX/pc+wCjm8mUf7lnaN4GJhEU=
+
+Name: CODE_OF_CONDUCT.md
+SHA1-Digest-Manifest: HzbNW3yrrRen1sGNjY90u9p01zE=
+
+Name: system/etc/camera/ov12a10_arc_ofilm_chromatix.xml
+SHA1-Digest-Manifest: deWTT9SEATiOtsvSQO13yYkJmeI=
+
+Name: common/post-fs-data.sh
+SHA1-Digest-Manifest: s6RL/xBH6Kru0eQ7DDy2HY7uFuM=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libmorpho_group_portrait.so
+SHA1-Digest-Manifest: noY+CIRc+Ks6Cq/gPcTUrFCnUzA=
+
+Name: system/etc/camera/s5k3l8_f3l8yam_chromatix.xml
+SHA1-Digest-Manifest: 4uK+++tbsWIQYMdycJY4IE+gQUc=
+
+Name: system/etc/age_gender_bg
+SHA1-Digest-Manifest: Ch6WS24CLcC0gyHUyKnd7UtfZ3Q=
+
+Name: LICENSE
+SHA1-Digest-Manifest: ne7uf7k+d3h3EPs8mJN8/gzAFaA=
+
+Name: system/etc/camera/imx298_gt24c64_chromatix.xml
+SHA1-Digest-Manifest: 43qRna/+e2A7bFF1WKNcHu6+jjc=
+
+Name: system/etc/permissions/com.google.android.feature.ANDROID_ONE_EX
+ PERIENCE.xml
+SHA1-Digest-Manifest: abRsEgZF5cqBONDIMxwejNMvqxU=
+
+Name: system/etc/camera/imx258_chromatix.xml
+SHA1-Digest-Manifest: ylJZLZPgShnAMLKcPZq0a1gWrAY=
+
+Name: system/etc/camera/ov8858_chromatix.xml
+SHA1-Digest-Manifest: 4/Nsw+oEEA6FEKK7K7fGpauvqWU=
+
+Name: system/etc/permissions/privapp-permissions-miuicamera.xml
+SHA1-Digest-Manifest: iVbPpmA2K0paMfp1jA53LyaZZ/k=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: lklEhG36QoHq7pknAiTsrULvDcI=
+
+Name: system/etc/camera/ov2680_chromatix.xml
+SHA1-Digest-Manifest: MI6npIOT6xt5SDvrKozCZlmNKE8=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libjni_makeupV2.so
+SHA1-Digest-Manifest: CtOC+kp3axdnIhcPALnLAl2YdaI=
+
+Name: system/etc/camera/ov2281_chromatix.xml
+SHA1-Digest-Manifest: ZkyQ3nItehT5JFgawF1izdL7CzY=
+
+Name: system/etc/camera/ov13880_arc_chromatix.xml
+SHA1-Digest-Manifest: EJtdSRR4cW4amLrLJLlaxZgk+A0=
+
+Name: system/vendor/etc/permissions/android.hardware.camera.flash-auto
+ focus.xml
+SHA1-Digest-Manifest: xIZBdi9nrCb934F00JdsERoTTcg=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libcdsprpc.so
+SHA1-Digest-Manifest: BLJkWbS0X8wMLb9+VJJ5FxDS8yM=
+
+Name: README.md
+SHA1-Digest-Manifest: o1RMsr5EU/LgS7XAQViCvqzBxbI=
+
+Name: module.prop
+SHA1-Digest-Manifest: 48XdWYEKjPPpZQo8vH0h30atyFU=
+
+Name: common/unityfiles.tar.xz
+SHA1-Digest-Manifest: 8JaotKptuVKOQEKXwMBHyEEXt7s=
+
+Name: system/etc/camera/imx378_chromatix.xml
+SHA1-Digest-Manifest: u8WxplQ6VQHzU4D+ICjRruZhqCU=
+
+Name: system/etc/camera/ov5695_chromatix.xml
+SHA1-Digest-Manifest: i+ifUkujkXg54dAnXt2AgMAg0bE=
+
+Name: system/etc/camera/ov13880_chromatix.xml
+SHA1-Digest-Manifest: sTJ1fW5c5bMfgGn9u81HcHqk994=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libmorpho_panorama.so
+SHA1-Digest-Manifest: NiwJ6fmsAKiQxtQLpAISyKGgfcI=
+
+Name: system/etc/camera/imx258_mono_chromatix.xml
+SHA1-Digest-Manifest: aJjhjQNRBo9szkU8CP1Jd/6THuY=
+
+Name: system/etc/camera/ov7251_chromatix.xml
+SHA1-Digest-Manifest: uwbIkg+XlHMruHAJ+LEVaExtcAQ=
+
+Name: system/vendor/etc/permissions/android.hardware.vr.high_performan
+ ce.xml
+SHA1-Digest-Manifest: 0uTgkVzggraLUk2mtLQFG3NG7Ak=
+
+Name: system/etc/camera/s5k3p3sm_chromatix.xml
+SHA1-Digest-Manifest: SPSF2ABmNUE2U36eo8mo/jLgwsk=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libscveImageCorrection.so
+SHA1-Digest-Manifest: IfGFzmvXRtaG6mCPO3Q9+cf+VyQ=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libjni_ubifocus.so
+SHA1-Digest-Manifest: GSUdthq6AIUFr3IWfyMD8I5MAQ8=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libscveBlobDescriptor.so
+SHA1-Digest-Manifest: K5de08gp98Oam39QvuEPRSJqIig=
+
+Name: system/etc/MIUI_Time.ttf
+SHA1-Digest-Manifest: UJhoAR82s+47yslprYciZlXbu0g=
+
+Name: system/etc/watermark_font_2300_3199.dat
+SHA1-Digest-Manifest: Qg8dz6mbJJt5JC6Agmw1cuR1mys=
+
+Name: common/service.sh
+SHA1-Digest-Manifest: TOn/zXTfuf86lkAJLKXrKctujsY=
+
+Name: system/etc/camera/ov5670_chromatix.xml
+SHA1-Digest-Manifest: C39PEzULXiSiTz2dASZXLAHSFVY=
+
+Name: system/etc/camera/s5k3l8_chromatix.xml
+SHA1-Digest-Manifest: +CPlnFSw1TMs0mYPbbSZL7kWKM8=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libjni_hazebuster.so
+SHA1-Digest-Manifest: 6RVg4c4SWrQx+ReLVA7GPmvoDac=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libscveObjectTracker.so
+SHA1-Digest-Manifest: 75PItkK7jZnb7Ytbj0XxfjMSls8=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libmmcamera_tintless_bg_pca
+ _algo.so
+SHA1-Digest-Manifest: mdAYG79qD6AUVMwbnF858bexrJ0=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libts_detected_face_jni.so
+SHA1-Digest-Manifest: zKPehYpwyfpIxUlB8Xh54C/Lc1I=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libjni_pacprocessor.so
+SHA1-Digest-Manifest: 6tklaKCqc8pVmCbeojgMmc4JeDc=
+
+Name: system/etc/sdm_ys_32p_120_21_5_perturb50.bin
+SHA1-Digest-Manifest: 2pTC8Xj/rJ335ImFmykdisqZVv8=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libavenhancements.so
+SHA1-Digest-Manifest: ggaVNg3T70NxcT/y7TdSv1t8fFQ=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libjni_dualcamera.so
+SHA1-Digest-Manifest: NzTM8Yzo/lF+slWJPgcWACMNiuo=
+
+Name: system/etc/camera/imx230_chromatix.xml
+SHA1-Digest-Manifest: 0zLzf/NNPRanBfloN68fFWBC3DY=
+
+Name: common/system.prop
+SHA1-Digest-Manifest: yzet7hVb781sQslznMWHwpnMHqg=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libCameraEffectJNI.so
+SHA1-Digest-Manifest: xCCcx9t+Z0IdqBidpPgGNcWe/YE=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/liboptizoom.so
+SHA1-Digest-Manifest: wPJdwUZY4UfCNU4JprE+hlti1OE=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libmmcamera_cac3_lib.so
+SHA1-Digest-Manifest: TfyA3KalJLNvD6GQBTR56xt9AEc=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libhazebuster.so
+SHA1-Digest-Manifest: ds5w2BAu5SAC2N67QFWMOZ27nrM=
+
+Name: system/etc/lf_facerank_model.bin
+SHA1-Digest-Manifest: DWgj+6MmELdS4TqLcO5SQZAv9iM=
+
+Name: system/priv-app/MiuiCamera/lib/arm64/libjni_optizoom.so
+SHA1-Digest-Manifest: 560545liDToKmWGTRDV82nFJOLU=
+
+Name: system/etc/camera/s5k3l8_mono_chromatix.xml
+SHA1-Digest-Manifest: 9XNAzoLFW1xe0vCpsmEYYk9b+rk=
+
+Name: system/vendor/etc/permissions/handheld_core_hardware.xml
+SHA1-Digest-Manifest: EnqnTDf6dkxPDmyUOUafmlwlvho=
+
